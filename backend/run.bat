@@ -1,0 +1,1 @@
+uvicorn API:app --reload --reload-exclude *.db-journal

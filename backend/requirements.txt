@@ -1,0 +1,8 @@
+msgpack
+aiosqlite
+websockets
+uvicorn[standard]
+shortuuid
+pydantic
+fastapi
+starlette
