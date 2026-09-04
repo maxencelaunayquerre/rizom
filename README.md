@@ -5,7 +5,7 @@
 <h1 align="center">Rizom</h1>
 
 <p align="center">
-  <strong>A full-stack social platform prototype designed to connect students across international partner schools.</strong>
+  <strong>A full-stack cross-platform social media prototype designed to connect students across international partner schools.</strong>
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@
 > **Status — historical prototype (2022–2023).** Rizom reached a functional alpha stage but was never released as a public beta or deployed as a production service. This repository is a cleaned archival version of the original project.
 
 <p align="center">
-  <img src="docs/screenshots/mobile-conversation.PNG" alt="Rizom desktop messaging interface" width="300">
+  <img src="docs/screenshots/mobile-conv.PNG" alt="Rizom mobile messaging interface" width="300">
 </p>
 
 <p align="center">
-  <em>Desktop messaging interface from the functional prototype. The original UI is in French because Rizom was developed as a French high-school project.</em>
+  <em>Mobile messaging interface from the functional prototype. The original UI is in French because Rizom was developed as a French high-school project.</em>
 </p>
 
 ---
@@ -321,8 +321,8 @@ This remained an **experimental component** and should not be confused with an i
 The React frontend includes dedicated responsive behaviour for both desktop and mobile layouts.
 
 <p align="center">
-  <img src="docs/screenshots/desktop.PNG" alt="Rizom desktop messaging interface" width="75%">
-  <img src="docs/screenshots/mobile-conversation.PNG" alt="Rizom mobile messaging interface" width="24%">
+  <img src="docs/screenshots/desktop-conv.PNG" alt="Rizom desktop messaging interface" width="75%">
+  <img src="docs/screenshots/mobile-conv.PNG" alt="Rizom mobile messaging interface" width="24%">
 </p>
 
 ## Project status
